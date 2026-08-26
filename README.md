@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./profile-banner.png" width="100%">
+</p>
+<img width="1983" height="793" alt="profile-banner" src="https://github.com/user-attachments/assets/31b7f794-cb1e-4419-aa1c-88956a645c9c" />
+
+
+
 # 👋 Hi, I'm Charulatha S
 
 ### Electronics & Communication Engineering Student | VLSI Physical Design | PCB Design | Python
