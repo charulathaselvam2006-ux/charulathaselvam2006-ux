@@ -3,8 +3,7 @@
 </p>
 <img width="1983" height="793" alt="profile-banner" src="https://github.com/user-attachments/assets/31b7f794-cb1e-4419-aa1c-88956a645c9c" />
 
-💻 About Me
-
+ ### 💻 About Me
     const Charulatha = {
     name: "Charulatha S",
     location: "Coimbatore, Tamil Nadu, India",
