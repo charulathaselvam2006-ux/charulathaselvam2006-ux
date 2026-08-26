@@ -30,7 +30,7 @@
     
      fun_fact: "Exploring the world of chips, circuits, and embedded innovation ⚡",
 
-     
+ ---    
  ### 🛠️ Tech Stack
 
 **💻 Programming Languages**
@@ -73,6 +73,7 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 
+---
 ## 💼 Work Experience
 
 ### 🔬 VLSI RTL-to-GDSII Flow Intern — C2S Program
@@ -121,9 +122,7 @@
 
 | Project | Technology | Highlights |
 |---|---|---|
-| **AI PCBA Board Detection** | Python, YOLOv8, OpenCV, FastAPI | AI-based PCB/component defect detection and visual inspection |
 | **AI-Based Women Safety Wearable** | IoT, AI/ML, Sensors, GPS | Threat detection, emergency alerts and real-time location tracking |
-| **Student Management System** | Java, MySQL, JDBC | Student CRUD operations with database integration |
 | **AI Medical Image Detection** | Python, Flask, TensorFlow | Medical image classification using Machine Learning |
 | **Digital Logic Simulator** | HTML, CSS, JavaScript | Interactive digital logic circuit simulation |
 | **AI Smart EV Dashboard** | HTML, CSS, JavaScript | EV battery, range and speed monitoring dashboard |
@@ -132,24 +131,26 @@
 
 ## 🏆 Certifications & Achievements
 
-- 🏅 **NCAT — 85.7%**
-- 📜 **Essentials SQL Skills for Data Beginners — Analytics Vidhya**
-- 🤖 **IBM AI Training Program**
-- 🔬 **VLSI RTL-to-GDSII Flow Internship — C2S Program**
-- 🤖 **Machine Learning Internship — ALFIDO Tech**
-- ⚡ **Embedded Systems Internship — Apex I Sys**
-- 🔧 **Industrial Training — AQUASUB ENGINEERING (TEXMO)**
+## 📜 Certifications
+
+- ☁️ **NPTEL – Cloud Computing** — IIT Kharagpur
+- 🤖 **Oracle – AI Foundation Associate**
+- ☁️ **IBM – Cloud Computing Fundamentals**
+- 🐍 **IBM – Data Analysis Using Python**
+- 🔴 **Red Hat – OpenShift Development I: Containers with Podman (D0188-RHA), Ver. 4.18**
+- 💻 **GitHub Workshop Participant** — Gained hands-on experience with Git, GitHub and collaborative development.
+- 🧩 **LeetCode 75 Badge** — Completed the LeetCode 75 Study Plan and strengthened DSA and problem-solving skills.
+- 👩‍💼 **Women Empowerment Club Member** — Contributed to initiatives promoting awareness, leadership and social responsibility.
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
-**B.E. Electronics and Communication Engineering**  
-SNS College of Technology, Coimbatore  
-**2023 – 2027**
-
-> `ECE` `VLSI` `Digital Electronics` `Embedded Systems` `PCB Design`
-
+| **Degree** | **Institution** | **Year** | **Score** |
+|---|---|---|---|
+| **B.E. Electronics & Communication Engineering** | SNS College of Technology, Coimbatore | 2023 – 2027 | **8.31CGPA** |
+| **Higher Secondary Certificate (HSC)** | Government Girls Higher Secondary School | 2020-2021 | **75%** |
+| **Secondary School Leaving Certificate (SSLC)** | Amrutha Matriculation Higher Secondary School | 2022-2023 | **100 Marks** |
 ---
 
 ## 📚 Currently Learning
@@ -157,8 +158,6 @@ SNS College of Technology, Coimbatore
 ```text
 🔬 VLSI Physical Design     → RTL-to-GDSII, Floorplanning, Placement, CTS, Routing
 🔧 PCB Design              → Schematic, PCB Layout, Circuit Design
-💻 Programming             → Python, C, Java, SQL
-🤖 AI & Machine Learning   → ML, TensorFlow/Keras, Computer Vision
+💻 Programming             → Python, C
 🌐 Web Development         → HTML, CSS, JavaScript, Flask
-📡 IoT                     → Sensors, MQTT, IoT Applications
 🛠️ EDA Tools              → Cadence
