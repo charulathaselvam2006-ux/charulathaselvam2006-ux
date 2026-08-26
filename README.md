@@ -23,12 +23,6 @@ charulatha = {
 }
 
 
----
-
-# Step 9 — Add VLSI section
-
-Below that, add:
-
 ```markdown
 ## 🔬 VLSI Physical Design
 
