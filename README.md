@@ -28,7 +28,8 @@
         
     ],
     
-     fun_fact: "Exploring the world of chips, circuits, and embedded innovation ⚡",
+     fun_fact: "Exploring the world of chips, circuits, and innovation ⚡",
+     motto: () => "Design. Build. Innovate."
 
  ---    
  ### 🛠️ Tech Stack
