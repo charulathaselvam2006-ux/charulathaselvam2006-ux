@@ -73,22 +73,92 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 
+## 💼 Work Experience
 
-### 📊 GitHub Stats
+### 🔬 VLSI RTL-to-GDSII Flow Intern — C2S Program
+**SNS College of Technology, Coimbatore** | On-site | 15 Days
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charulathaselvam2006-ux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charulathaselvam2006-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</p>
+> `VLSI` `RTL-to-GDSII` `Cadence EDA` `Physical Design`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=charulathaselvam2006-ux&theme=tokyonight-duo&hide_border=true" height="180"/>
-</p>
+- Gained practical exposure to the complete RTL-to-GDSII design flow.
+- Worked with Cadence EDA tools for VLSI physical design.
+- Learned floorplanning, power planning, placement, Clock Tree Synthesis (CTS), and routing.
+- Gained knowledge of layout verification and physical design concepts.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charulathaselvam2006-ux&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
+### 🤖 Machine Learning Intern — ALFIDO Tech
+**AICTE Internship** | Remote | 4 Weeks
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charulathaselvam2006-ux&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="95%"/>
-</p>
+> `Python` `Machine Learning` `TensorFlow` `Keras`
+
+- Developed a Machine Learning project for Iris Flower Classification.
+- Applied data preprocessing and classification techniques.
+- Gained practical experience in Python-based Machine Learning workflows.
+- Worked with TensorFlow/Keras for model development.
+
+### ⚡ Embedded Systems Intern — Apex I Sys
+**Remote** | 4 Weeks
+
+> `Embedded C` `Arduino` `IoT` `GPIO`
+
+- Developed an 8-LED control system using Embedded C and GPIO.
+- Built an IoT-based Smart Door Lock with multiple authentication methods.
+- Developed an Arduino-based home automation system for lighting control.
+- Gained practical exposure to hardware interfacing and IoT systems.
+
+### 🔧 Industrial Training — AQUASUB ENGINEERING (TEXMO)
+**On-site** | 15 Days
+
+> `Industrial Automation` `Induction Motors` `CNC` `Testing`
+
+- Gained practical knowledge of single-phase and three-phase induction motors.
+- Observed CNC machine operations and industrial manufacturing workflows.
+- Worked with testing and quality-control activities.
+- Developed practical understanding of industrial motor and pump systems.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Technology | Highlights |
+|---|---|---|
+| **AI PCBA Board Detection** | Python, YOLOv8, OpenCV, FastAPI | AI-based PCB/component defect detection and visual inspection |
+| **AI-Based Women Safety Wearable** | IoT, AI/ML, Sensors, GPS | Threat detection, emergency alerts and real-time location tracking |
+| **Student Management System** | Java, MySQL, JDBC | Student CRUD operations with database integration |
+| **AI Medical Image Detection** | Python, Flask, TensorFlow | Medical image classification using Machine Learning |
+| **Digital Logic Simulator** | HTML, CSS, JavaScript | Interactive digital logic circuit simulation |
+| **AI Smart EV Dashboard** | HTML, CSS, JavaScript | EV battery, range and speed monitoring dashboard |
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🏅 **NCAT — 85.7%**
+- 📜 **Essentials SQL Skills for Data Beginners — Analytics Vidhya**
+- 🤖 **IBM AI Training Program**
+- 🔬 **VLSI RTL-to-GDSII Flow Internship — C2S Program**
+- 🤖 **Machine Learning Internship — ALFIDO Tech**
+- ⚡ **Embedded Systems Internship — Apex I Sys**
+- 🔧 **Industrial Training — AQUASUB ENGINEERING (TEXMO)**
+
+---
+
+## 🎓 Education
+
+**B.E. Electronics and Communication Engineering**  
+SNS College of Technology, Coimbatore  
+**2023 – 2027**
+
+> `ECE` `VLSI` `Digital Electronics` `Embedded Systems` `PCB Design`
+
+---
+
+## 📚 Currently Learning
+
+```text
+🔬 VLSI Physical Design     → RTL-to-GDSII, Floorplanning, Placement, CTS, Routing
+🔧 PCB Design              → Schematic, PCB Layout, Circuit Design
+💻 Programming             → Python, C, Java, SQL
+🤖 AI & Machine Learning   → ML, TensorFlow/Keras, Computer Vision
+🌐 Web Development         → HTML, CSS, JavaScript, Flask
+📡 IoT                     → Sensors, MQTT, IoT Applications
+🛠️ EDA Tools              → Cadence
