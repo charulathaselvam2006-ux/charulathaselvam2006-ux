@@ -130,9 +130,6 @@
 ---
 
 ## 🏆 Certifications & Achievements
-
-## 📜 Certifications
-
 - ☁️ **NPTEL – Cloud Computing** — IIT Kharagpur
 - 🤖 **Oracle – AI Foundation Associate**
 - ☁️ **IBM – Cloud Computing Fundamentals**
@@ -150,7 +147,7 @@
 |---|---|---|---|
 | **B.E. Electronics & Communication Engineering** | SNS College of Technology, Coimbatore | 2023 – 2027 | **8.31CGPA** |
 | **Higher Secondary Certificate (HSC)** | Government Girls Higher Secondary School | 2020-2021 | **75%** |
-| **Secondary School Leaving Certificate (SSLC)** | Amrutha Matriculation Higher Secondary School | 2022-2023 | **100 Marks** |
+| **Secondary School Leaving Certificate (SSLC)** | Amrutha Matriculation Higher Secondary School | 2022-2023 | **100%** |
 ---
 
 ## 📚 Currently Learning
